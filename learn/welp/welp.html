@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welp</title>
+</head>
+<body>
+    <h2>Welp Review Form</h2>
+    <form action="">
+        <label>Reviewer Name: </label><input type="text" required>
+        <br><br>
+        <label>What are you reviewing: </label><input type="text" required>
+        <br><br>
+        <label>Would you try again?</label>
+        <br>
+        <input type="radio" name="try-again" /> No <br>
+        <input type="radio" name="try-again" /> Not Sure <br>
+        <input type="radio" name="try-again" /> Yes <br>
+        <br>
+        <label>Rate this movie from 1 - 5 </label><input type="number" min="1" max="5" required>
+        <br>
+        <p>Write your comments here</p> <textarea maxlength="250"></textarea>
+        <br><br>
+        <input type="submit" value="Submit Review">
+    </form>
+</body>
+</html>
