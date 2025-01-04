@@ -1,5 +1,5 @@
 # Restaurant Menu 🍽️
-Welcome to my Restaurant Menu Project!. It is built using HTML and showcases the skills i learned throughout the course.
+Welcome to my Restaurant Menu Project! This project is built with HTML and demonstrates the skills I learned throughout the course. It features a full restaurant menu page with a form for placing orders.
 
 ## Features
 **1. HTML Structure**
